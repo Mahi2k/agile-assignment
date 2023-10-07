@@ -1,0 +1,48 @@
+Explain the core principles of Agile methodology. How do these principles emphasize adaptability and customer collaboration?
+
+Agile methodology is a flexible and iterative method to software improvement and undertaking control that prioritizes adaptability, client 
+collaboration, and delivering value to the patron. It is based totally on a set of middle principles that manual its practices and procedures. These 
+standards emphasize adaptability and purchaser collaboration in several ways:
+
+1. Customer Satisfaction via Continuous Delivery: Agile methodologies recognition on handing over small, incremental enhancements to the product with
+    every generation. This approach that customers can see tangible progress and offer comments all through the development process. By doing so, Agile guarantees that the product aligns with client desires and expectations.
+
+2. Welcome Changes in Requirements: Agile embraces converting necessities, even overdue in the improvement system. This principle recognizes that 
+    purchaser desires and market situations might also evolve, and it encourages groups to be bendy and responsive to these changes. Teams are 
+    organized to adjust their plans and priorities for that reason.
+
+3. Frequent Deliveries of Working Software: Agile promotes ordinary, incremental releases of running software. This allows clients to peer actual 
+    progress and advantages fast. It additionally permits groups to accumulate comments early and frequently, helping to persuade the mission inside 
+    the right path.
+
+4. Collaboration between Business and Developers: Agile encourages near collaboration among business stakeholders and development teams. Customers, 
+    product proprietors, and builders paintings collectively for the duration of the task, fostering a shared knowledge of goals and priorities. 
+    This collaboration ensures that the product aligns with client desires.
+
+5. Motivated Individuals and Trust: Agile trusts and empowers people within the group. Team individuals are given autonomy and are motivated to take 
+    possession in their paintings. This precept emphasizes that motivated and skilled people are the important thing to a hit projects.
+
+6. Face-to-Face Communication: Agile values face-to-face conversation as it is frequently more effective than written documentation or e-mail 
+    exchanges. Frequent interactions and discussions assist ensure that everybody on the crew is familiar with the goals and necessities of the mission.
+
+7. Working Software as the Primary Measure of Progress: Agile measures development by means of the quantity of operating software program 
+    introduced. This recognition on tangible outcomes in place of documentation or plans guarantees that the assignment is moving forward and delivering price to the customer.
+
+8. Sustainable Development Pace: Agile promotes a sustainable pace of work to avoid burnout and make certain the lengthy-term productiveness of the 
+    team. This principle recognizes that regular, doable workloads are essential for delivering incredible software program.
+
+9. Technical Excellence and Good Design: Agile emphasizes the importance of technical excellence and proper design to hold the fine and 
+    maintainability of the software program over time. This guarantees that the product remains adaptable as new necessities emerge.
+
+10. Simplicity: Agile advocates for simplicity in each the product and also the improvement method. By retaining things simple and heading off 
+    needless complexity, teams can be greater adaptive and aware of change.
+
+These Agile principles collectively promote adaptability by way of fostering a collaborative, patron-centric, and iterative method to development. 
+By embracing change, prioritizing patron delight, and handing over cost incrementally, Agile methodologies enable groups to reply to evolving 
+purchaser desires and marketplace situations successfully.
+
+References:- 
+1) https://www.visual-paradigm.com/guide/agile-software-development/what-is-user-story/
+2) https://www.wrike.com/agile-guide/user-stories-guide/
+3) https://kissflow.com/project/agile/benefits-of-agile/
+4) https://ccaps.umn.edu/story/agile-methodology-advantages-and-disadvantages
